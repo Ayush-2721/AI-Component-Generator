@@ -3,33 +3,8 @@ AI-powered UI component generator built with React, Tailwind CSS, and Gemini API
 
 This project allows users to describe any UI component, choose a framework, and instantly generate code using Gemini AI. It also includes a Monaco Editor, real-time preview, copy/export, and a polished modern UI.
 
-📁 Folder Structure (Based on Your Project)
-AI-Component-Generator-main
-│
-├── node_modules
-├── public
-│
-├── src
-│   ├── components
-│   │   └── Navbar.jsx
-│   │
-│   ├── pages
-│   │   ├── Home.jsx
-│   │   └── NoPage.jsx
-│   │
-│   ├── App.css
-│   ├── App.jsx
-│   ├── index.css
-│   ├── main.jsx
-│
-├── eslint.config.js
-├── index.html
-├── package.json
-├── package-lock.json
-├── vite.config.js
-├── postcss.config.js
-├── tailwind.config.js
-└── README.md
+<img width="264" height="744" alt="image" src="https://github.com/user-attachments/assets/870a7351-eaa9-47a3-88ad-ca9a584137b0" />
+
 
 🔥 Features
 🧠 AI-Powered Component Generation
